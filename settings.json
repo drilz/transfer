@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "AdminCMDS": true,
+  "MemberCMDS": true,
+  "GiveawayCMDS": true,
+  "GeneratorCMDS": true
+}

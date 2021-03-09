@@ -1,0 +1,47 @@
+{
+  "name": "tokenbot",
+  "version": "1.0.0",
+  "description": "a cool bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "1.8",
+    "cheerio": "^0.22.0",
+    "discord-giveaways": "^4.1.8",
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "github:discordjs/Commando",
+    "ffmpeg-static": "^4.2.3",
+    "form-data": "^3.0.0",
+    "fs": "^0.0.2",
+    "iso-639-1": "^2.1.2",
+    "method-override": "*",
+    "nekos.life": "^2.0.7",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "pastebin-js": "^1.0.4",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.1.1",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Glitchy-Brick",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galnir/Master-Bot.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galnir/Master-Bot/issues"
+  },
+  "homepage": "https://github.com/galnir/Master-Bot#readme"
+}
